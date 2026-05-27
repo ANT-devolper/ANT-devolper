@@ -52,14 +52,6 @@
 
 ###
 
-## <samp>&gt; github_activity</samp>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ANT-devolper/ANT-devolper/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-###
-
 ## <samp>&gt; connect</samp>
 
 <p>
